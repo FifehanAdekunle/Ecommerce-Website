@@ -18,7 +18,7 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 
 - Browse and view different products available for purchase.
 - Add products to the shopping cart.
-- Adjust the quantity of products in the cart.
+- Adjust the number of products in the cart.
 - Remove products from the cart.
 - Calculate and display the total price of the items in the cart.
 - Buy Now button that simulates placing an order.
@@ -26,10 +26,9 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 ## Usage
 
 1. Clone the repository to your local machine:
-
-   
-git clone https://github.com/fifehanadekunle/portfolio-website.git
 ```bash
+https://github.com/fifehanadekunle/portfolio-website.git
+
 2. Open the index.html file in a web browser to view the Ecommerce website.
 
 3. Browse the products and click on the shopping bag icon (bx-shopping-bag) to add products to your cart.
@@ -37,6 +36,18 @@ git clone https://github.com/fifehanadekunle/portfolio-website.git
 4. Click on the cart icon in the header to view your cart. You can adjust quantities, remove items, and see the total price of the items.
 
 5. Click on the "Buy Now" button to simulate placing an order.
+
+
+**##Contributing**
+Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to create an issue or submit a pull request. 
+
+**##License**
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions
 
 
 
