@@ -27,9 +27,9 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 
 1. Clone the repository to your local machine:
 
-   ```bash
+   
 git clone https://github.com/fifehanadekunle/portfolio-website.git
-
+```bash
 2. Open the index.html file in a web browser to view the Ecommerce website.
 
 3. Browse the products and click on the shopping bag icon (bx-shopping-bag) to add products to your cart.
