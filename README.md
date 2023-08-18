@@ -26,7 +26,7 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 ## Usage
 
  Clone the repository to your local machine:
-https://github.com/fifehanadekunle/portfolio-website.git
+https://github.com/FifehanAdekunle/Ecommerce-Website.git
 
 1. Open the index.html file in a web browser to view the Ecommerce website.
 
