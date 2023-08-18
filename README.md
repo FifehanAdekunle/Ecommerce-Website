@@ -27,7 +27,16 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 
 1. Clone the repository to your local machine:
 
-  git clone https://github.com/yourusername/ecommerce-website.git
+   ```bash
+git clone https://github.com/fifehanadekunle/portfolio-website.git
+
+2. Open the index.html file in a web browser to view the Ecommerce website.
+
+3. Browse the products and click on the shopping bag icon (bx-shopping-bag) to add products to your cart.
+
+4. Click on the cart icon in the header to view your cart. You can adjust quantities, remove items, and see the total price of the items.
+
+5. Click on the "Buy Now" button to simulate placing an order.
 
 
 
