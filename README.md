@@ -25,23 +25,22 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 
 ## Usage
 
-1. Clone the repository to your local machine:
-```bash
+ Clone the repository to your local machine:
 https://github.com/fifehanadekunle/portfolio-website.git
-''
-2. Open the index.html file in a web browser to view the Ecommerce website.
 
-3. Browse the products and click on the shopping bag icon (bx-shopping-bag) to add products to your cart.
+1. Open the index.html file in a web browser to view the Ecommerce website.
 
-4. Click on the cart icon in the header to view your cart. You can adjust quantities, remove items, and see the total price of the items.
+2. Browse the products and click on the shopping bag icon (bx-shopping-bag) to add products to your cart.
 
-5. Click on the "Buy Now" button to simulate placing an order.
+3. Click on the cart icon in the header to view your cart. You can adjust quantities, remove items, and see the total price of the items.
+
+4. Click on the "Buy Now" button to simulate placing an order.
 
 
-**##Contributing**
+## Contributing
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to create an issue or submit a pull request. 
 
-**##License**
+## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal
 in the Software without restriction, including without limitation the rights
