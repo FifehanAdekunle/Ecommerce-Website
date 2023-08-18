@@ -27,7 +27,7 @@ This project is a basic Ecommerce website that allows users to browse and add pr
 
 1. Clone the repository to your local machine:
 
-   ```bash
-  git clone https://github.com/fifehanadekunle/portfolio-website.git
+  git clone https://github.com/yourusername/ecommerce-website.git
+
 
 
